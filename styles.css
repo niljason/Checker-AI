@@ -1,0 +1,19 @@
+#log {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    color: blue;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: pink;
+    color:black;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: salmon;
+}
